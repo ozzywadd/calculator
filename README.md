@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/awaddecar/Parts%20Unlimited/_apis/build/status/ozzywadd.calculator?branchName=master)](https://dev.azure.com/awaddecar/Parts%20Unlimited/_build/latest?definitionId=1&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
